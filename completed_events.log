@@ -1,0 +1,9 @@
+{
+    "message": "Event added successfully",
+    "event": {
+        "id": "1733218839265",
+        "title": "Team Meeting",
+        "description": "Discuss plans for Q1",
+        "time": "2024-12-03T15:00:00.000Z"
+    }
+}{"id":"1733219432818","title":"Team Meeting","description":"Discuss plans for Q1","completedAt":"2024-12-03T09:51:00.843Z"}
